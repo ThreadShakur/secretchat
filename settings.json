@@ -1,0 +1,5 @@
+{
+  "address": "127.0.0.1", // Leave "" to get ability connect to this server from another computer in internet
+  "port": 9999,
+  "password": "qwerty"
+}
